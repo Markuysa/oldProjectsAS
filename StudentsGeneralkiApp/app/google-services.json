@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "691468965796",
+    "project_id": "dormitoryapp-b4f1a",
+    "storage_bucket": "dormitoryapp-b4f1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691468965796:android:63abafa5b78b75cb12d331",
+        "android_client_info": {
+          "package_name": "com.example.studentsgeneralkiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691468965796-pg4jueod4uusu1a2ro2n8umciqmhehjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYlXWk0lQaPgoy14cWh9DegJyOJyAvR3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691468965796-pg4jueod4uusu1a2ro2n8umciqmhehjo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

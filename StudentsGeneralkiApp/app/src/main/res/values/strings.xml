@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">StudentsGeneralkiApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="course">Course</string>
+    <string name="room_number">Room Number</string>
+    <string name="submit">Submit</string>
+    <string-array name="Titles">
+        <item>Список студентов</item>
+        <item>Рандомайзер генеральных уборок</item>
+    </string-array>
+</resources>

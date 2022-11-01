@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyOwnWeatherApp</string>
+    <string name="humidity">Humidity:</string>
+    <string name="probability_of_rain">Probability of rain:</string>
+    <string name="pressure_level">Pressure level:</string>
+    <string name="cloudy_level">Cloudy level:</string>
+    <string name="index_of_ultraviolet">Index of ultraviolet:</string>
+    <string name="wind_speed">Wind speed:</string>
+    <string name="moon_phase">Moon phase:</string>
+    <string name="textview">TextView</string>
+</resources>
